@@ -23,11 +23,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringTocamelCase", "String
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringTocamelCaseTest", "StringTocamelCaseTest\StringTocamelCaseTest.csproj", "{5A5C9700-A468-46DE-80C7-68394317DDA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{95B42181-D9D0-4288-9BFD-A170E4BE3F74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseString", "ReverseString\ReverseString.csproj", "{95B42181-D9D0-4288-9BFD-A170E4BE3F74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseStringTest", "ReverseStringTest\ReverseStringTest.csproj", "{AA49319F-6C34-4295-B6A5-976F7DD83D2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseStringTest", "ReverseStringTest\ReverseStringTest.csproj", "{AA49319F-6C34-4295-B6A5-976F7DD83D2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isPalindrome", "isPalindrome\isPalindrome.csproj", "{9525B37B-25BE-4F19-BC60-56222DE8D46C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "isPalindrome", "isPalindrome\isPalindrome.csproj", "{9525B37B-25BE-4F19-BC60-56222DE8D46C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInt", "ReverseInt\ReverseInt.csproj", "{AAB6BDE3-3C7B-4FD9-ACF7-45510D4B18CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseDigits", "ReverseDigits\ReverseDigits.csproj", "{0533CE45-5862-41CD-84B2-E258304AF193}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{9525B37B-25BE-4F19-BC60-56222DE8D46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9525B37B-25BE-4F19-BC60-56222DE8D46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9525B37B-25BE-4F19-BC60-56222DE8D46C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB6BDE3-3C7B-4FD9-ACF7-45510D4B18CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB6BDE3-3C7B-4FD9-ACF7-45510D4B18CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB6BDE3-3C7B-4FD9-ACF7-45510D4B18CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB6BDE3-3C7B-4FD9-ACF7-45510D4B18CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0533CE45-5862-41CD-84B2-E258304AF193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0533CE45-5862-41CD-84B2-E258304AF193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0533CE45-5862-41CD-84B2-E258304AF193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0533CE45-5862-41CD-84B2-E258304AF193}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
