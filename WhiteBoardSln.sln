@@ -29,9 +29,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseStringTest", "Revers
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "isPalindrome", "isPalindrome\isPalindrome.csproj", "{9525B37B-25BE-4F19-BC60-56222DE8D46C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInt", "ReverseInt\ReverseInt.csproj", "{AAB6BDE3-3C7B-4FD9-ACF7-45510D4B18CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseInt", "ReverseInt\ReverseInt.csproj", "{AAB6BDE3-3C7B-4FD9-ACF7-45510D4B18CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseDigits", "ReverseDigits\ReverseDigits.csproj", "{0533CE45-5862-41CD-84B2-E258304AF193}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseDigits", "ReverseDigits\ReverseDigits.csproj", "{0533CE45-5862-41CD-84B2-E258304AF193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumOccurences", "NumOccurences\NumOccurences.csproj", "{C359B72A-7DDE-4ACF-A7A7-FEA00EB3C6EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumOccurencesTest", "NumOccurencesTest\NumOccurencesTest.csproj", "{5AA68153-C4C6-480D-B6EF-8442DEBF835E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,14 @@ Global
 		{0533CE45-5862-41CD-84B2-E258304AF193}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0533CE45-5862-41CD-84B2-E258304AF193}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0533CE45-5862-41CD-84B2-E258304AF193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C359B72A-7DDE-4ACF-A7A7-FEA00EB3C6EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C359B72A-7DDE-4ACF-A7A7-FEA00EB3C6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C359B72A-7DDE-4ACF-A7A7-FEA00EB3C6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C359B72A-7DDE-4ACF-A7A7-FEA00EB3C6EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AA68153-C4C6-480D-B6EF-8442DEBF835E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA68153-C4C6-480D-B6EF-8442DEBF835E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA68153-C4C6-480D-B6EF-8442DEBF835E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA68153-C4C6-480D-B6EF-8442DEBF835E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
